@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The City Zoo]]></title>
         <description><![CDATA[The City Zoo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-city-zoo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 04:36:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 04:36:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-city-zoo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Experience works. It lets brands show people not just what they are—but who they are. Because when people can see your brand's human side, they connect with it more deeply. Prima Impact dreams up experiences designed to do just that. We create experiences that work.]]></title>
+            <description><![CDATA[<article><h1>Experience works. It lets brands show people not just what they are—but who they are. Because when people can see your brand's human side, they connect with it more deeply. Prima Impact dreams up experiences designed to do just that. We create experiences that work.</h1><p>In today’s world success depends on using the right technology. You don’t have to be the next tech start-up to take advantage of technology to grow your business. Prima is passionate about helping business owners in need of an effective online presence by integrating clean, vibrant, and profitable websites with strategies for using modern technology.</p></article>]]></description>
+            <link>https://thegrid.ai/the-city-zoo/experience-works-it-lets-brands-show-people-not-just-what-t/index.html</link>
+            <guid isPermaLink="false">bf76e724-15f6-4f20-b9fc-72150d8416dc</guid>
+            <pubDate>Sun, 21 Feb 2016 04:35:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Your dilemma]]></title>
             <description><![CDATA[<h1>Your dilemma</h1>]]></description>
-            <link>undefined7caa8fcf-142c-4123-a73e-f5af68f45f2d/index.html</link>
+            <link>https://thegrid.ai/the-city-zoo/7caa8fcf-142c-4123-a73e-f5af68f45f2d/index.html</link>
             <guid isPermaLink="false">7caa8fcf-142c-4123-a73e-f5af68f45f2d</guid>
             <pubDate>Sun, 21 Feb 2016 04:35:47 GMT</pubDate>
         </item>
