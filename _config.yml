@@ -1,0 +1,28 @@
+name: The City Zoo
+favicon: null
+layout_spectrum: 0.9929993115365505
+typography_spectrum: 0.06904000556096435
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6759811234660447
+  lightness: 0.19474566681310534
+  saturation: 0.5384886614046991
+  rhythmicContrast: 0.7480485774576664
+purpose: []
